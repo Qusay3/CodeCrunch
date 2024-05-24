@@ -1,1 +1,9 @@
+# MySQL-Python Integration
 
+This folder contains simple code examples demonstrating how to connect MySQL with Python and how to host the application on a Linux server.
+
+## Contents
+
+- `test_mysql_connection.py`: A Python script that shows how to connect to a MySQL database.
+- `test.py`: A SQL script to set up the necessary MySQL database and tables.
+- `hostin.py`: A shell script to help host the Mysql on a Linux server.
